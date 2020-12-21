@@ -23,3 +23,4 @@ new frontmatter:
 * Test locally with `hugo server -D`
 * Setup workbox (copy setup from my main domain which was generated with the [workbox wizard](https://developers.google.com/web/tools/workbox/guides/generate-service-worker/cli))
 * Setup automatic deployment on GitHub using GitHub Actions ([peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) and workbox for building the static files and [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) for the actual deployment)
+![](images/deployment-setup.png)
