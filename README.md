@@ -12,7 +12,7 @@ new content:
 * Apply the `raw-html` shortcode  
 ![](images/raw-html-shortcode-usage.png)
 * Rename `keywords` to `tags` in the frontmatter (because I use them as taxonomy now)
-* Change the frontmatter dates as Golang needs a specific format and Hugo works with this by default (2019-12-12T06:00 => 2019-12-12 06:00:00)  
+* Change the frontmatter dates as Golang needs a specific format and Hugo works with this by default (`2019-12-12T06:00` => `2019-12-12 06:00:00`)  
 old frontmatter:  
 ![](images/frontmatter-old.png)  
 new frontmatter:  
